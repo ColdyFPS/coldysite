@@ -45,7 +45,7 @@ const perguntas = [
     correta: 0
   },
   {
-    pergunta: "O que é a meiose?",
+    pergunta: "O que é meiose",
     respostas: [
       "Um processo de divisão celular que reduz o número de cromossomos pela metade, resultando em células sexuais",
       "Um tipo de célula sanguínea",
@@ -54,13 +54,13 @@ const perguntas = [
     correta: 0
   },
   {
-    pergunta: "Qual é a função principal do sistema nervoso?",
+    pergunta: "Qual sua opinião sobre conversar com outro homem?",
     respostas: [
-      "Transmitir sinais entre diferentes partes do corpo",
-      "Produzir hormônios",
-      "Filtrar o sangue para remover impurezas",
+      "Eu adoro conversar com outros homens",
+      "Algo muito feio não pode se fazer nunca",
+      "Uma coisa legal pra ter outras experiências",
     ],
-    correta: 0
+    correta: 1
   },
   {
     pergunta: "O que são os fatores abióticos?",
@@ -72,13 +72,13 @@ const perguntas = [
     correta: 0
   },
   {
-    pergunta: "O que é a evolução biológica?",
+    pergunta: "O que é você acha de traição?",
     respostas: [
-      "O processo pelo qual as espécies mudam ao longo do tempo através de hereditariedade e seleção natural",
-      "Um ramo da biologia que estuda células",
-      "Uma teoria que nega a mudança das espécies ao longo do tempo",
+      "Concordo plenamente e sou de acordo",
+      "Uma coisa que eu faria muito",
+      "Muito errado não faria nunca pois amo o meu marido",
     ],
-    correta: 0
+    correta: 2
   },
   {
     pergunta: "Qual é o principal componente das células?",
