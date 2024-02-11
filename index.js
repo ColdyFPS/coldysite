@@ -36,11 +36,11 @@ const perguntas = [
     correta: 0
   },
   {
-    pergunta: "Qual é o principal órgão do sistema respiratório humano?",
+    pergunta: "Oque fazer quando um homem vir falar com você?",
     respostas: [
-      "Os pulmões",
-      "O coração",
-      "O fígado",
+      "Dar um tapa na cara dele dizendo que ja é casada depois fura os olhos com as unha",
+      "Responder ele com simpatia",
+      "Dizer que é solteira e dar pegar o zap",
     ],
     correta: 0
   },
