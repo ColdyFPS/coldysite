@@ -1,96 +1,96 @@
 const perguntas = [
-    {
-      pergunta: "O que é JavaScript?",
-      respostas: [
-        "Uma linguagem de programação de alto nível",
-        "Um tipo de café",
-        "Um sistema operacional",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é o símbolo para comentários de uma única linha em JavaScript?",
-      respostas: [
-        "//",
-        "/* */",
-        "#",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a função do operador '===' em JavaScript?",
-      respostas: [
-        "Compara dois valores para igualdade de valor e tipo",
-        "Atribui um valor a uma variável",
-        "Multiplica dois valores",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "O que é uma variável em JavaScript?",
-      respostas: [
-        "Um contêiner para armazenar dados",
-        "Uma função que retorna um valor",
-        "Um tipo de loop",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a função da declaração 'const' em JavaScript?",
-      respostas: [
-        "Declara uma variável de somente leitura",
-        "Define uma constante matemática",
-        "Cria uma nova classe",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "O que é uma função em JavaScript?",
-      respostas: [
-        "Um bloco de código reutilizável que executa uma tarefa específica",
-        "Um tipo de loop",
-        "Um tipo de variável",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a função do operador '&&' em JavaScript?",
-      respostas: [
-        "Operador lógico E",
-        "Operador de concatenação de strings",
-        "Operador de incremento",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "Qual é a função do operador '+' em JavaScript?",
-      respostas: [
-        "Adição e concatenação de strings",
-        "Subtração",
-        "Multiplicação",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "O que é uma estrutura condicional em JavaScript?",
-      respostas: [
-        "Uma instrução que executa diferentes ações com base em uma condição",
-        "Um tipo de loop",
-        "Um tipo de variável",
-      ],
-      correta: 0
-    },
-    {
-      pergunta: "O que é o DOM em JavaScript?",
-      respostas: [
-        "Document Object Model, uma interface de programação para documentos HTML e XML",
-        "Diretriz Oficial de Manutenção",
-        "Data Object Model, uma estrutura de dados",
-      ],
-      correta: 0
-    }
-  ];
-  
+  {
+    pergunta: "Qual é a função principal do sistema circulatório humano?",
+    respostas: [
+      "Transportar oxigênio para as células do corpo",
+      "Filtrar o sangue para remover impurezas",
+      "Ajudar na digestão de alimentos",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "O que é a mitose?",
+    respostas: [
+      "Um processo de divisão celular que resulta em duas células geneticamente idênticas",
+      "Um tipo de célula especializada em transporte de nutrientes",
+      "Um órgão do sistema reprodutor masculino",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é a unidade básica da hereditariedade?",
+    respostas: [
+      "O gene",
+      "O cromossomo",
+      "A célula",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "O que é a fotossíntese?",
+    respostas: [
+      "O processo pelo qual as plantas convertem luz solar em energia química",
+      "A produção de esporos em plantas",
+      "A absorção de nutrientes pelas raízes das plantas",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o principal órgão do sistema respiratório humano?",
+    respostas: [
+      "Os pulmões",
+      "O coração",
+      "O fígado",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "O que é a meiose?",
+    respostas: [
+      "Um processo de divisão celular que reduz o número de cromossomos pela metade, resultando em células sexuais",
+      "Um tipo de célula sanguínea",
+      "Uma estrutura encontrada no núcleo das células vegetais",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é a função principal do sistema nervoso?",
+    respostas: [
+      "Transmitir sinais entre diferentes partes do corpo",
+      "Produzir hormônios",
+      "Filtrar o sangue para remover impurezas",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "O que são os fatores abióticos?",
+    respostas: [
+      "Componentes não vivos de um ecossistema, como luz solar, temperatura e água",
+      "Organismos microscópicos",
+      "O mesmo que bióticos, mas em um contexto diferente",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "O que é a evolução biológica?",
+    respostas: [
+      "O processo pelo qual as espécies mudam ao longo do tempo através de hereditariedade e seleção natural",
+      "Um ramo da biologia que estuda células",
+      "Uma teoria que nega a mudança das espécies ao longo do tempo",
+    ],
+    correta: 0
+  },
+  {
+    pergunta: "Qual é o principal componente das células?",
+    respostas: [
+      "A membrana celular",
+      "O núcleo",
+      "O citoplasma",
+    ],
+    correta: 0
+  }
+];
+
   const quiz = document.querySelector('#quiz')
   const template = document.querySelector('template')
   
